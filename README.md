@@ -11,10 +11,11 @@ Output:
 ![Screenshot_20221205_225057](https://github.com/durgavinay8/know-the-day-project/assets/113960662/0fbe41eb-17df-4764-bd14-87ae4599fcaa)
 ![Screenshot_20221205_225206](https://github.com/durgavinay8/know-the-day-project/assets/113960662/431874f8-fff7-4a78-8dde-68edd6fac577)
 
+ ------------------------------------------------
 This project is primarily divided into two parts:
 1.	Extract all the required data based on the entered date  
 2.	Displaying the Extracted data making use of the Graphical User Interface (GUI)
-
+ ------------------------------------------------
 1. Extract the required data based on the entered date:
 We gathered the required data from various websites. This data involves two things: 
 a.  Information of the importance of the day (celebrated as):
@@ -25,9 +26,6 @@ Here, we made use of Wikipedia 	 to get historical information.
 
 Web-scraping technique has been deployed to extract all the necessary information from these websites and various tools from the bs4, BeautifulSoup, requests modules have been used to make this possible.
 Tools in the google module have been used to search for the link of the first website after searching it in the google.
-
-
-		
 
 2. Displaying the extracted data making use of the Graphical User Interface (GUI):
 Tkinter has been used for the design and implementation of the Graphical User Interface, it’s a standard GUI library for Python. Python when combined with Tkinter provides a fast and easy way to create GUI applications.
