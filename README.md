@@ -28,10 +28,11 @@ Tkinter has been used for the design and implementation of the Graphical User In
 We made use of various tools, widgets provided by Tkinter and made them bind them to various functions to make the GUI possible.
 
 Algorithm involved in this project:
-Step 1: start
-Step 2: Design and implement a required GUI to make all next steps 	  	   possible.
-Step 2: get input of the date to gather the data and then validate it 
-Step 3: if not valid, go to step 2. else, proceed to next steps
-Step 4: make access request to the specified websites.                                             	      	  get the html code of that website.                                             		  look for the tags where the required information is present.       	  	    extract the data from those tags.
-Step 5: make the google search of these extracted data.                              	  get the links of the 1st website. 
-Step-6: display all the gathered data in the GUI and show the webpages 	   of the extracted links
+
+Step 1: start\
+Step 2: Design and implement a required GUI to make all next steps possible.\
+Step 2: get input of the date to gather the data and then validate it\
+Step 3: if not valid, go to step 2. else, proceed to next steps\
+Step 4: make access request to the specified websites. get the html code of that website. look for the tags where the required information is present. extract the data from those tags.\
+Step 5: make the google search of these extracted data. get the links of the 1st website.\
+Step-6: display all the gathered data in the GUI and show the webpages of the extracted links\
