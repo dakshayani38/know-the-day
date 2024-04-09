@@ -5,6 +5,11 @@ This project is built using python and webscraping techniques which utilizes a G
 
 Find the demo of the project here : https://drive.google.com/file/d/18FLS1r48J7-sELRjBIeR-1CLr7Fa_9tT/view?usp=sharing
 
+Output:
+
+![Screenshot_20221205_224942](https://github.com/durgavinay8/know-the-day-project/assets/113960662/a1361d1d-f585-4b74-98db-de3ad6e1f55b)
+
+
 This project is primarily divided into two parts:
 1.	Extract all the required data based on the entered date  
 2.	Displaying the Extracted data making use of the Graphical User Interface (GUI)
